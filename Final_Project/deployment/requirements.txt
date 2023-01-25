@@ -1,0 +1,14 @@
+streamlit
+nltk
+tensorflow
+joblib
+datetime
+snscrape
+pandas
+yfinance
+matplotlib
+Sastrawi
+numpy
+seaborn
+scikit-learn
+plotly
