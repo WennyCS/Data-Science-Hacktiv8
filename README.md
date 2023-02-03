@@ -21,7 +21,7 @@ My Personal Projects ✨✨:
 4.  P1M1_Credit_Card_Default_Model.ipynb
     It's a model to predict credit card defaults
 
-5.  P0M1_(Analization_and_Visualisation)_of_Factors_that_Influence_YouTube_Channel_Popularity.ipynb
-    It's an analization and visualisation of factors that influence youtube channel popularity. You can see the visualisation at Google Data Studio. https://datastudio.google.com/u/0/reporting/0a7cca00-416e-4004-b092-11be0b8bbada/page/EAa1C
+5.  P0M1_(Analysis_and_Visualisation)_of_Factors_that_Influence_YouTube_Channel_Popularity.ipynb
+    It's an analysis and visualisation of factors that influence youtube channel popularity. You can see the visualisation at Google Data Studio. https://datastudio.google.com/u/0/reporting/0a7cca00-416e-4004-b092-11be0b8bbada/page/EAa1C
 
 Hoping that my projects can give you insight. Have a splendid day ✨✨!
