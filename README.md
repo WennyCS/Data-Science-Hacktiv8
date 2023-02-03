@@ -1,11 +1,11 @@
 # Hacktiv8DataScience
 
-Hello dear Readers ✨✨!
+Hello dear readers ✨✨!
 
-This repository contains my Personal Bootcamp Data Science Projects and my Group Bootcamp Data Science Project (Final Project) in 2022.
+This repository contains my Personal Bootcamp Data Science Projects as well as my Group Bootcamp Data Science Project (Final Project) in 2022.
 
 My Group Projects (Final_Project) ✨✨:
-1.  TESIA – S Class, consist of 2 notebooks: NLP_LSTM_Model.ipynb & NLP_LSTM_Model.ipynb
+1.  TESIA – S Class, consists of 2 notebooks: NLP_LSTM_Model.ipynb & NLP_LSTM_Model.ipynb
     It's a share price prediction project based on twitter sentiment and YahooFinance. You can try the model at StreamlitApp https://casheu-tesia-app-cik2xe.streamlit.app/
 
 My Personal Projects ✨✨:
